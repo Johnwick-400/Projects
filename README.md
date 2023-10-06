@@ -6,3 +6,5 @@
 
 **Project 3 :** NOVA an AI based Home Automation System 
 
+**Project 4 :** Data Science Projects
+
